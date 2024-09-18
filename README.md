@@ -1,4 +1,1 @@
-python beginner
-C++ beginner
-C intermediate
-MATLAB intermediate
+this is my github for practising programming
