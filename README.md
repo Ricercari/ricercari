@@ -1,1 +1,1 @@
-this is my github for practising programming
+this is my git for practising programming
